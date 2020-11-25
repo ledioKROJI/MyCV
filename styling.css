@@ -1,0 +1,143 @@
+/* Style by HTML elements */
+
+body {
+	background-color: #808080;
+}
+
+h1, h2, h3 {
+	color: #808080;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 35px;
+	font-style: italic;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+p, td , li {
+	color: #808080;
+}
+
+li {
+	padding: 3px;
+}
+
+/* Header pannel styling */
+
+.headerimg {
+	position: absolute;
+	top: 10px;
+	right: 25px;
+}
+
+.headertext {
+	position: relative;
+	top: 25px;
+	left: 70px;
+}
+
+/* Side pannel styling */
+
+.sidetext {
+	margin: 20px;
+	position: relative;
+	top: 20px;
+	text-align: justify;
+	text-justify: inter-word;
+}
+	
+.sidelogo {
+	width: 25px;
+	height: 25px;
+	position: relative;
+	top: 32px;
+	left: 20px;
+}
+
+.logotext {
+	position: relative;
+	top: 0px;
+	left: 60px;
+}
+
+.logocontainer {
+    height: 35px;
+}
+
+.langnames {
+	position: relative;
+	top: 0px;
+}
+.langlevel {
+	position: relative;
+	top: -135px;
+	left: 175px;
+}
+
+/* Center informations organisation */
+
+#tdop {
+	padding: 3px;
+	padding-left: 50px;
+}
+
+.itskills {
+	padding: 5px;
+	width: 95%;
+	font-weight: bold;
+	text-align: center;
+	background-color: #EEEEEE;
+}
+
+#itskillsborders {
+	border: 3px solid white;
+	border-collapse: collapse;
+}
+
+.centralheadings {
+	height: 10px;
+}
+
+/* Main page organisaiton */
+
+.funscript {
+	width: 200px;
+	height: 5px;
+	margin: auto;
+}
+
+.cvmainframe {
+	position: relative;
+	background-color: #FFFFFF;
+	width: 800px;
+	height: 1080x;
+	margin: auto;
+}
+
+.cvheader {
+	background-color: #EEEEEE;
+	width: 800px;
+	height: 200px;
+	position: relative;
+}
+
+.cvsideinfos {
+	background-color: #EEEEEE;
+	width: 300px;
+	height: 880px;
+	margin-top: 50px;
+}
+
+.cvcentralinfos {
+	position: absolute;
+	left: 320px;
+	top: 243px;
+}
